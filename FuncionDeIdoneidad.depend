@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1656291798 source:c:\users\bryan andrade\documents\codeblocks\funciondeidoneidad\main.cpp
+	"funcionIdoneidad.h"
+
+1656291827 c:\users\bryan andrade\documents\codeblocks\funciondeidoneidad\funcionidoneidad.h
+	<cmath>
+	<cstdlib>
+	<time.h>
+	<iostream>
+
